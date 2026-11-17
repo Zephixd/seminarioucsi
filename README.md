@@ -96,6 +96,7 @@ npm run dev:all             # frontend (puerto 3000) + API local
 | `VITE_SUPABASE_ANON_KEY` | Clave pública (anon) de Supabase |
 | `SUPABASE_SERVICE_ROLE_KEY` | Solo para `setup-db.ts`; nunca se expone al cliente |
 | `RESEND_API_KEY` | Envío de correos de confirmación |
+| `VITE_ADMIN_PASSWORD` | Contraseña de acceso al panel `/admin` |
 
 ## Autor
 
